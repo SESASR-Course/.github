@@ -3,7 +3,7 @@ This advanced engineering master's course provides a comprehensive understanding
 
 ## Resources
 - [ROS 2 Setup Guide](https://github.com/SESASR-Course/ros2_setup_guide)
-- [ROS 2 VSCode Dev Container Template](https://github.com/SESASR-Course/vscode_ros2_workspace)
+
 
 ## Online Resources
 - [Git Explained in 100 seconds](https://youtu.be/hwP7WQkmECE)
