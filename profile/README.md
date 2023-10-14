@@ -1,6 +1,7 @@
 # Sensors, Embedded Systems and Algorithms for Service Robotics
 
 __Politecnico di Torino__
+
 __M. Sc. in Mechatronic Engineering (Ingegneria Meccatronica) - Torino__
 
 This advanced engineering master's course provides a comprehensive understanding of the fundamental concepts, methodologies, and technologies associated with sensors, embedded systems, and algorithms for service robotics. It aims to equip students with the necessary knowledge and skills to design, develop, and deploy intelligent robotic systems capable of performing a wide range of services in diverse environments.
