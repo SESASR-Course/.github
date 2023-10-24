@@ -11,6 +11,7 @@ This advanced engineering master's course provides a comprehensive understanding
 
 
 ## Online Resources
+- [Python Introduction & Other Useful Tools](https://www.ipb.uni-bonn.de/python-intro/)
 - [Git Explained in 100 seconds](https://youtu.be/hwP7WQkmECE)
 - [How to use Git and Guithub](https://youtu.be/HkdAHXoRtos)
 - [Beginner's Guide to Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
