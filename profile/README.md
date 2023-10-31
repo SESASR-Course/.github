@@ -7,7 +7,8 @@ __M. Sc. in Mechatronic Engineering (Ingegneria Meccatronica) - Torino__
 This advanced engineering master's course provides a comprehensive understanding of the fundamental concepts, methodologies, and technologies associated with sensors, embedded systems, and algorithms for service robotics. It aims to equip students with the necessary knowledge and skills to design, develop, and deploy intelligent robotic systems capable of performing a wide range of services in diverse environments.
 
 ## Resources
-- [ROS 2 Setup Guide](https://sesasr-course.github.io/ros2_setup_guide/) (guide have been updated on 14/10/2023)
+- [Setup Guide - Ubuntu and ROS 2](https://sesasr-course.github.io/ros2_setup_guide/)
+- [VS Code ROS 2 Workspace](https://github.com/SESASR-Course/vscode_ros2_workspace)
 
 
 ## Online Resources
