@@ -22,5 +22,7 @@ This advanced engineering master's course provides a comprehensive understanding
 
 ## Laboratories
 
+[Lab03](https://drive.google.com/file/d/1T130zEj97oAZgMwjSp-NKew8SNnvhiQD/view?usp=sharing)
+
 ## Contacts
 If you find an error or you have some suggestions write to sesasr.polito@gmail.com
