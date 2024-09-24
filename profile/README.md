@@ -8,9 +8,6 @@ This advanced engineering master's course frames the fundamental concepts, metho
 
 ## Resources
 - [Setup Guide - Ubuntu and ROS 2](https://sesasr-course.github.io/ros2_setup_guide/)
-- [VS Code ROS 2 Workspace](https://github.com/SESASR-Course/vscode_ros2_workspace)
-- [TurtleBot 3 Packages](https://github.com/SESASR-Course/turtlebot3/blob/humble-devel/README.md)
-- [Action Server and Client Templates](https://github.com/SESASR-Course/action_server_client_template)
 
 
 ## Online Resources
@@ -23,7 +20,6 @@ This advanced engineering master's course frames the fundamental concepts, metho
 
 ## Laboratories
 
-- [Lab03](https://drive.google.com/file/d/1T130zEj97oAZgMwjSp-NKew8SNnvhiQD/view?usp=sharing)
 
 ## Contacts
-If you find an error or you have some suggestions write to sesasr.polito@gmail.com
+If you find an error or you have some suggestions write to [sesasr.polito@gmail.com](sesasr.polito@gmail.com)
