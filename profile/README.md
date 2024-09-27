@@ -11,11 +11,25 @@ This advanced engineering master's course frames the fundamental concepts, metho
 
 
 ## Online Resources
+
+#### Linux Terminal
 - [Beginner's Guide to Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
-- [Python Introduction & Other Useful Tools](https://www.ipb.uni-bonn.de/python-intro/)
+- [Linux Command Line Hacks](https://youtu.be/mV_8GbzwZMM)
+
+#### Git and Github
 - [Git Explained in 100 seconds](https://youtu.be/hwP7WQkmECE)
 - [How to use Git and Guithub](https://youtu.be/HkdAHXoRtos)
-- [Linux Command Line Hacks](https://youtu.be/mV_8GbzwZMM)
+
+#### Python
+- [Python Setup Tutorial](https://www.youtube.com/watch?v=-4BT8sV9EYg)
+- [Python Introduction & Other Useful Tools](https://www.ipb.uni-bonn.de/python-intro/)
+
+#### ROS 2
+- [ROS 2 Humble Documentation](https://docs.ros.org/en/humble/index.html)
+- [ROS 2 Cheat Sheet: all the commands that you need to interact with ROS 2 from a terminal](https://github.com/ubuntu-robotics/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf)
+- [ROS 2 Cookbook: useful snippets of code explained](https://fer.gs/ros2_cookbook/client_libraries/rclpy/index.html)
+
+#### Other
 - [Turtlebot 3 Reference Manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
 ## Laboratories
