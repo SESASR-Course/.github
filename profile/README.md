@@ -9,6 +9,7 @@ This advanced engineering master's course frames the fundamental concepts, metho
 ## Resources
 - [Setup Guide - Ubuntu and ROS 2](https://sesasr-course.github.io/ros2_setup_guide/)
 - [Turtlebot3 Simulations Package](https://github.com/SESASR-Course/turtlebot3_simulations.git)
+- [Turtlebot3 Perception Package](https://github.com/SESASR-Course/turtlebot3_perception.git)
 
 
 ## Online Resources
